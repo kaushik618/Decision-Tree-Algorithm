@@ -1,0 +1,11 @@
+Weather,Parents,Money
+Sunny,Yes,Rich
+Sunny,No,Rich
+Windy,Yes,Rich
+Rainy,Yes,Poor
+Rainy,No,Rich
+Rainy,Yes,Poor
+Windy,No,Poor
+Windy,No,Rich
+Windy,Yes,Rich
+Sunny,No,Rich
